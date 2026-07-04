@@ -2,8 +2,8 @@ name,quantity,link,price dollar,use
 Small Active Electromagnetic Buzzer,1,https://makerbazar.in/products/small-active-buzzer,0.13,to warn
 18650 SMD/SMT Battery Holder Case,1,https://makerbazar.in/products/high-quality-18650-smd-smt-battery-holder-case,0.41,to hold and connect the battery
 18650 Li-Ion Rechargeable Cell,1,https://makerbazar.in/products/18650-3-7v-lithium-ion-rechargeable-cell-good-quality,0.62,power the circute
-12x12mm Tactile Push Button DIP Switch,1,https://makerbazar.in/products/tactile-push-button?variant=47433066152176,0.074,turn it on or off
-3-Pin DIP Mini Slide Switch,1,https://makerbazar.in/products/3-pin-dip-mini-slide-switch-through-hole-pcb-slide-button?variant=46800235823344,0.074,for reset
+12x12mm Tactile Push Button DIP Switch,1,https://makerbazar.in/products/tactile-push-button?variant=47433066152176,0.074,for reset
+3-Pin DIP Mini Slide Switch,1,https://makerbazar.in/products/3-pin-dip-mini-slide-switch-through-hole-pcb-slide-button?variant=46800235823344,0.47,for on and off
 bc547 transistor,1,https://makerbazar.in/products/bcxxx-general-purpose-transistors-to92?variant=46255877226736,0.20,electricaly control switch
 Female Berg Strip 2.54mm Straight Header Pin,3,https://makerbazar.in/products/female-berg-strip-2-54mm-header-pin?variant=46822716735728,0.090,connect the touch sensore
 Touch Sensor Switch Module,1,https://makerbazar.in/products/capacitive-touch-sensor-switch-module?variant=48251073593584,0.095,the main sensore
@@ -12,3 +12,4 @@ Touch Sensor Switch Module,1,https://makerbazar.in/products/capacitive-touch-sen
 custome pcb,1,https://cart.jlcpcb.com/shopcart/cart,4,connect all components
 battery charger,1,https://makerbazar.in/products/type-2-universal-dual-battery-charger-li-ion-3-7v-18650-16340-14500-17670-cr123a-cells?variant=49046635184368,1.56,charge the battery
 delivery charges,1,,12,
+total,,,
