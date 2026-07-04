@@ -7,4 +7,23 @@ it can really useful for those people who's doors are really silent . in my proj
 to build this project you need all the components and pcb given in my BOM and pcb after getting all those parts you simpely need to solder everything on place and then scratch a little part on touch sensore and solder a wire wich connect to a metal part of your door metal part and turn on the switch that's all.
 
 <img width="455" height="363" alt="Screenshot 2026-05-03 222640" src="https://github.com/user-attachments/assets/2b1f3efb-cf36-4a9d-8bff-d4d2f328c8bc" />
+
+| Component | Purpose | Qty | Cost (USD) | Distributor |
+|-----------|---------|-----|------------|-------------|
+| Small Active Electromagnetic Buzzer | Audible warning indicator | 1 | $0.13 | Maker Bazar |
+| 18650 SMD/SMT Battery Holder | Holds and connects the battery | 1 | $0.41 | Maker Bazar |
+| 18650 Li-Ion Rechargeable Cell | Powers the circuit | 1 | $0.62 | Maker Bazar |
+| 12×12mm Tactile Push Button | Reset button | 1 | $0.07 | Maker Bazar |
+| 3-Pin DIP Mini Slide Switch | Power ON/OFF switch | 1 | $0.47 | Maker Bazar |
+| BC547 Transistor | Electrically controls the switching circuit | 1 | $0.20 | Maker Bazar |
+| Female Berg Strip 2.54mm Header | Connects the touch sensor | 3 | $0.09 | Maker Bazar |
+| Capacitive Touch Sensor Module | Main touch sensor | 1 | $0.10 | Maker Bazar |
+| 10kΩ Carbon Film Resistor | Current limiting and voltage biasing | 1 | $0.16 | Maker Bazar |
+| 1kΩ Carbon Film Resistor | Current limiting and voltage biasing | 1 | $0.16 | Maker Bazar |
+| Custom PCB | Mounts and connects all components | 1 | $4.00 | JLCPCB |
+| Battery Charger | Charges the 18650 battery | 1 | $1.56 | Maker Bazar |
+| Delivery Charges | Shipping costs | 1 | $10.00 | Various |
+
+**Total Estimated Cost:** **$18.00 USD**
+
 <img width="517" height="281" alt="Screenshot 2026-05-03 222749 - Copy" src="https://github.com/user-attachments/assets/21b721d4-31fd-40d9-bf30-797aa053ef72" />
